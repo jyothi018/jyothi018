@@ -43,6 +43,12 @@ Data Analysis • Machine Learning • EDA • Data Cleaning • Feature Enginee
 - Designed and deployed end-to-end AWS cloud solution (EC2, S3, Lambda, IAM) for automated data fetching and validation  
 - Reduced manual validation effort and improved provider data accuracy through intelligent automation  
 
+### 🔹 Services Health Status Dashboard
+- Built real-time monitoring web application for SaaS platforms (Microsoft, Onelogin, CrowdStrike, etc.)  
+- Integrated Microsoft Graph API and third-party health status APIs for live service monitoring  
+- Implemented automated email notification system to alert users of service degradation or downtime  
+- Designed responsive UI with HTML, CSS, and JavaScript with SQLite backend for incident tracking  
+
 ### 🔹 Internal Tools & Automation
 - Built lightweight UI components using HTML, JavaScript, and Python  
 - Automated repetitive tasks to improve team efficiency  
