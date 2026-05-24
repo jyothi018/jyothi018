@@ -37,6 +37,12 @@ Data Analysis • Machine Learning • EDA • Data Cleaning • Feature Enginee
 - Extracted structured data from scanned claims documents  
 - Reduced manual effort and improved data accuracy  
 
+### 🔹 Provider Database Validation
+- Engineered data validation pipelines integrating web scraping and GPA data sources  
+- Leveraged Claude Sonnet LLM for intelligent data quality assessment and provider verification  
+- Designed and deployed end-to-end AWS cloud solution (EC2, S3, Lambda, IAM) for automated data fetching and validation  
+- Reduced manual validation effort and improved provider data accuracy through intelligent automation  
+
 ### 🔹 Internal Tools & Automation
 - Built lightweight UI components using HTML, JavaScript, and Python  
 - Automated repetitive tasks to improve team efficiency  
