@@ -23,7 +23,7 @@ Data Analysis • Machine Learning • EDA • Data Cleaning • Feature Enginee
 
 ## 💼 Professional Experience
 
-**Associate Data Analyst — Sagility**  
+**Software Engineer Analytics — Sagility**  
 *June 2024 – Present*
 
 ### 🔹 Error Propensity Model (EPM)
