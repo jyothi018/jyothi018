@@ -1,4 +1,4 @@
-## 👋 About Me
+## 👋 Hi There!! Jyothi Here
 
 Data Analyst with 1+ year of experience in Healthcare & Insurance Analytics, specializing in transforming complex data into actionable insights and automation solutions. 
 
