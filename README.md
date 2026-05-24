@@ -46,7 +46,7 @@ Data Analysis • Machine Learning • EDA • Data Cleaning • Feature Enginee
 ### 🔹 Services Health Status Dashboard
 - Built real-time monitoring web application for SaaS platforms (Microsoft, Onelogin, CrowdStrike, etc.)  
 - Integrated Microsoft Graph API and third-party health status APIs for live service monitoring  
-- Implemented automated email notification system to alert users of service degradation or downtime  
+- Developed Python backend for data processing and automated email notification system to alert users of service degradation or downtime  
 - Designed responsive UI with HTML, CSS, and JavaScript with SQLite backend for incident tracking  
 
 ### 🔹 Internal Tools & Automation
