@@ -1,6 +1,6 @@
 ## 👋 Hi There!! Jyothi Here
 
-Data Analyst with 1+ year of experience in Healthcare & Insurance Analytics, specializing in transforming complex data into actionable insights and automation solutions. 
+Data Analyst with 2 year of experience in Healthcare & Insurance Analytics, specializing in transforming complex data into actionable insights and automation solutions. 
 
 I have hands-on experience working with claims data, performing exploratory data analysis (EDA), and building end-to-end machine learning models for use cases like fraud detection and error prediction.
 
