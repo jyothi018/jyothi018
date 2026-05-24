@@ -46,8 +46,7 @@ Data Analysis • Machine Learning • EDA • Data Cleaning • Feature Enginee
 
 ## 🎓 Education
 
-**PES University** — B.Tech, Computer Science (Networks & Cybersecurity)  
-CGPA: 7.56 | 2020–2024  
+**PES University** — B.Tech, Computer Science (Networks & Cybersecurity) | 2020–2024  
 
 ---
 
