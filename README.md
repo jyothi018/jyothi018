@@ -85,5 +85,5 @@ IJRAMT, Vol. 5, Issue 1, Jan 2024
 
 ## 📞 Reach Out
 
-**Email:** jyothi@1492@gmail.com  
+**Email:** jyothi.s1492@gmail.com  
 **LinkedIn:** http://www.linkedin.com/in/jyothi-s-382383239
