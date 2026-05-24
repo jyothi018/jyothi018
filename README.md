@@ -46,7 +46,7 @@ Data Analysis • Machine Learning • EDA • Data Cleaning • Feature Enginee
 
 ## 🎓 Education
 
-**PES University** — B.Tech, Computer Science (Networks & Cybersecurity) | 2020–2024  
+**PES University** — B.Tech, Computer Science| 2020–2024  
 
 ---
 
@@ -74,10 +74,11 @@ Data Analysis • Machine Learning • EDA • Data Cleaning • Feature Enginee
 
 ## 🏆 Achievements
 - Participated in CTF Hackathon — PES University  
-- Awarded Distinction Certificate and Scholarship  
 
 ---
 
 ## 📄 Publication
 **Natural Sentence Generation Using Sign Language Gestures**  
 IJRAMT, Vol. 5, Issue 1, Jan 2024  
+
+
