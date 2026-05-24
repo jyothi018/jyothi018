@@ -2,7 +2,7 @@
 
 Data Analyst with 2 year of experience in Healthcare & Insurance Analytics, specializing in transforming complex data into actionable insights and automation solutions. 
 
-I have hands-on experience working with claims data, performing exploratory data analysis (EDA), and building end-to-end machine learning models for use cases like fraud detection and error prediction.
+I have hands-on experience working with claims data, performing exploratory data analysis (EDA), and building end-to-end machine learning models for use cases like fraud detection and error predict[...]
 
 I enjoy solving real-world problems by combining data analysis, machine learning, and automation — including automating day-to-day tasks to reduce redundancy and improve efficiency.
 
@@ -81,4 +81,9 @@ Data Analysis • Machine Learning • EDA • Data Cleaning • Feature Enginee
 **Natural Sentence Generation Using Sign Language Gestures**  
 IJRAMT, Vol. 5, Issue 1, Jan 2024  
 
+---
 
+## 📞 Reach Out
+
+**Email:** jyothi@1492@gmail.com  
+**LinkedIn:** http://www.linkedin.com/in/jyothi-s-382383239
