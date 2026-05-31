@@ -39,7 +39,7 @@ Data Analysis • Machine Learning • EDA • Data Cleaning • Feature Enginee
 
 ### 🔹 Provider Database Validation
 - Engineered data validation pipelines integrating web scraping and GPA data sources  
-- Leveraged Claude Sonnet LLM for intelligent data quality assessment and provider verification  
+- Leveraged Claude Sonnet LLM to extract and validate structured data from unstructured HTML content for accurate provider verification
 - Designed and deployed end-to-end AWS cloud solution (EC2, S3, Lambda, IAM) for automated data fetching and validation  
 - Reduced manual validation effort and improved provider data accuracy through intelligent automation  
 
